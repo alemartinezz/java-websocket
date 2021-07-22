@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tyrus-client-cli-1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Java-WebSocket-1.5.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
